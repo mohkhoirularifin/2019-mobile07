@@ -8,4 +8,7 @@
     <item android:id="@+id/action_discount"
         android:title="Discount"
         android:icon="@drawable/ic_discount" />
+    <item android:id="@+id/action_travel"
+        android:title="Travel"
+        android:icon="@drawable/ic_travel" />
 </menu>
